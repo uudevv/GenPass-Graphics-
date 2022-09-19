@@ -1,0 +1,11 @@
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\bin\Debug\GenPass(Graphics).exe.config
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\bin\Debug\GenPass(Graphics).exe
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\bin\Debug\GenPass(Graphics).pdb
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\obj\Debug\GenPass(Graphics).csproj.AssemblyReference.cache
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\obj\Debug\GenPass(Graphics).csproj.SuggestedBindingRedirects.cache
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\obj\Debug\GenPass_Graphics_.Form1.resources
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\obj\Debug\GenPass_Graphics_.Properties.Resources.resources
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\obj\Debug\GenPass(Graphics).csproj.GenerateResource.cache
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\obj\Debug\GenPass(Graphics).csproj.CoreCompileInputs.cache
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\obj\Debug\GenPass(Graphics).exe
+C:\Users\Azmom\OneDrive\Рабочий стол\generator_of_pass\GenPass(Graphics)\obj\Debug\GenPass(Graphics).pdb
